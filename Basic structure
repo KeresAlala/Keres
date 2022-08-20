@@ -1,0 +1,35 @@
+<html>
+<head> 
+<title>Basic structure of HTML</title>
+<style>
+    div{
+          background-color:Grey;
+          padding:10px;
+         }
+         
+         div.first{
+          opacity:0.5;
+          }
+          
+         div.second{
+          opacity:0.7;
+          }
+   </style>
+</head>
+<body align="center">
+
+<h1>HTML</h1>
+<div class="first"><p> HTML stands for Hypertext Markup Language</p></div>
+<div class="second"><pre>
+                (html)
+                (head)
+                      (title)Basic Structure of HTML(/title)
+                (/head)
+                (body)
+                      Text
+                 (/body)
+                 (/html)
+ </pre></div>
+
+</body>
+</html>                 
